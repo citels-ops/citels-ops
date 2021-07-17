@@ -1,5 +1,5 @@
 - 👋 Hi, This is [@citels-ops](https://github.com/citels-ops)
-- ![Citels](https://image.freepik.com/free-psd/metallic-logo-mockup-blue-wall_1389-1178.jpg)
+- ![Citels](https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg)
 - 👀 I’m interested in developing,learning
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate...
